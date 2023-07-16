@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689493561 source:c:\users\harsh\onedrive\documents\code\epostal\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+

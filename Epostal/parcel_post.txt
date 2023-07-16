@@ -1,0 +1,1 @@
+harshu:SENDER:abc:whitefield:560098:bengaluru:karnataka:RECIEVER:varshini:west godavari:560098:kadapa:andhra pradesh:Weight:=12.00:Cost:=500.00:
