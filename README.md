@@ -5,6 +5,13 @@ parcel booking , money order and access even the customer’s accounts .
 Customers can login with their respective username and passwords and he will be able to access
 the service provided by the postal services portal.
 
+# Data-Structures-Used
+* Linked list is used to modify the user's details and updating the details.
+* Files are used to store information.
+
+# Software Requirement:
+Code Blocks or Dev C++ or any other IDE can be used
+# # OUTPUT
 # Login
 ![login](https://github.com/Harshita1801/Easy-Leave/assets/95306077/dcc8586d-b021-439b-933f-e8fcb8ee620d)
 ![login2](https://github.com/Harshita1801/Easy-Leave/assets/95306077/0f3eb53d-2b8e-493a-9ad0-11e0966902f9)
